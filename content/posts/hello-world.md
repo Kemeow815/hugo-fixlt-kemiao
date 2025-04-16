@@ -17,7 +17,6 @@ Welcome to Hugo FixIt! This is your very first post.
 
 Head to the documentation page linked below for a complete guidence to get started with the [FixIt](https://github.com/hugo-fixit/FixIt) theme.
 
-{{< fixit-docs-bookmark >}}
 
 ## Feedback
 
